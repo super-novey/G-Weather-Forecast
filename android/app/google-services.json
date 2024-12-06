@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "640739359265",
+    "project_id": "weatherapp-da1ce",
+    "storage_bucket": "weatherapp-da1ce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640739359265:android:5b11c3f0957871760c8160",
+        "android_client_info": {
+          "package_name": "com.example.g_weather_forecast"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOMf0IgCSvqT9EFgwFNaYYV8XetjRk6x0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
